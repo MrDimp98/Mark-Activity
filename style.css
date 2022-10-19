@@ -1,0 +1,20 @@
+.carousel-item{
+    min-height: 400px;
+    background-color: #34495E;
+}
+a.nav-link{
+    text-decoration: none;
+    color: black;
+}
+a.nav-link:hover{
+    text-decoration: none;
+    color: #34495E;
+}
+.ImgItems{
+    width: 40px; 
+    height: 40px;
+}
+.ImgHeading{
+    width: 140px; 
+    height: 140px;
+}
